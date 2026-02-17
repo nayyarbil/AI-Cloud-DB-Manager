@@ -1,0 +1,6 @@
+venv/
+*.pyc
+.env
+ReadMe.MD
+inventory.db        # Prevents your local data from being uploaded
+__pycache__/       # Keeps Python's temporary files out of GitHub
